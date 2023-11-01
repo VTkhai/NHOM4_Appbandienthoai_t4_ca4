@@ -82,10 +82,5 @@ Sprint 3:
 
 •	Online Payment
 							
-							
-							
-							
-							
-
 
 
