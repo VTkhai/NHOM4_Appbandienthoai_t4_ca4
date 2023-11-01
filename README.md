@@ -1,16 +1,21 @@
 # NHOM6_Appbandienthoai_t4_ca4
 Làm app bán điện thoại_Sử dụng Android Studio(Java)
+#Thành viên nhóm:
 5 thành viên:
--Lê Anh Cường(DEV),
+-Lê Anh Cường(Scrum Master),
 
 -Lương Trần Khánh(DEV),
 
 -Vũ Thiên Khải(Product Owner),
 
--Trương Liêu Minh Trí(,
+-Trương Liêu Minh Trí(DEV),
 
--Đào Thị Kim Xuyến.
+-Đào Thị Kim Xuyến(DEV).
 
+#Công nghệ đã dùng: 
+
+
+![2dfe1822d19006ce5f81](https://github.com/VTkhai/NHOM6_Appbandienthoai_t4_ca4/assets/116328261/17ade301-85a9-45fd-9849-55f0c3e05c30)
 
 
 
