@@ -36,54 +36,55 @@ Ngoài ra, hệ thống cũng cần có phân hệ để đảm bảo cho công 
 # Các chức năng đã làm:
 Sprint 1:
 
-•	View HomePage
+•	Xem trang chủ
 
 ![740ffbfa3048e716be59](https://github.com/VTkhai/NHOM6_Appbandienthoai_t4_ca4/assets/116328261/0ad51728-1350-45cd-b98b-6b3d3dc7f820)
 
 
-•	View Product list
+•	Xem danh sách sản phẩm
 
-•	View Product details
+• 	Xem chi tiết sản phẩm
 
-•	Manage Shopping Cart (Add, Increase, Decrease, Remove)
+• 	Quản lý giỏ hàng (Thêm, tăng, giảm, xóa)
 
-•	Registration
+•	Sự đăng ký
 
-•	Login
+•	Đăng nhập
 
 Sprint 2:
 
-•	Make Orders
+•	• Đặt hàng
 
-•	Order Management (View, Cancel request)
+• 	Quản lý đơn hàng (Xem, Hủy yêu cầu)
 
-•	Payment Information
+•	Thông tin thanh toán
 
-•	Edit Profile
+• 	Chỉnh sửa hồ sơ
 
-•	Logout
+•	Đăng xuất
 
-•	Searching
+•	Đang tìm kiếm
 
-•	Product management
+• 	Quản lý sản phẩm
 
-•	Price Management
+• 	Quản lý giá
 
-•	Shipping Management
+•	Quản lý vận chuyển
 
-•	Rating product
+•	Đánh giá sản phẩm
+
 
 Sprint 3:
 
-•	User Management
+•	 Quản lý người dùng
 
 
 
 # Hướng phát triển: 
 
-•	Notification
+•	Thông báo
 
-•	Online Payment
+•	Thanh toán online
 							
  
 
